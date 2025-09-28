@@ -42,7 +42,8 @@
                   "maximumError": "8kB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "baseHref": "/Taller_Angular_Ejercicio2/"
             },
             "development": {
               "optimization": false,
